@@ -54,8 +54,12 @@ Library:
 | EPI2ME | cloud-based data analysis platform for QC |
 | Canu | Assemebly by trimming and detecting overlaps |
 | prokka | annotating the genome |
+| Metrichor | integrated solutions for the whole analysis process |
 
-
+# Software Alternatives
+| Software				| Language | Description					|
+| :---					| :---	| :---					|
+| poretools			| a toolkit for working with nanopore sequencing data from Oxford Nanopore |
 
 # Build Instructions
 
