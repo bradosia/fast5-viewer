@@ -59,7 +59,8 @@ Library:
 # Software Alternatives
 | Software				| Language | Description					|
 | :---					| :---	| :---					|
-| poretools			| a toolkit for working with nanopore sequencing data from Oxford Nanopore |
+| poretools			| Python 2 | a toolkit for working with nanopore sequencing data from Oxford Nanopore |
+| BulkVis			| Python 3 | enables the visualisation of raw ‘squiggle’ data from Oxford Nanopore Technologies sequencers |
 
 # Build Instructions
 
