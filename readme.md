@@ -30,7 +30,19 @@ Library:
 | Quality Control			|  				| Assess the quality of the raw current data |
 | basecalling | | translating raw current data into nucleotide bases |
 | alignment | | aligning nucleotide bases to reference genome |
+| assembly | | trimming and detecting overlaps |
 | GUI display | QT5 | visualization of raw data, base sequence, and aligned sequence |
+
+# Oxford Nanopore Software
+| Software				| Description					|
+| :---					| :---						|
+| minKNOW			| Operating software that drives nanopore sequencing devices |
+| Guppy			| basecalling algorithms and alignment |
+| EPI2ME | cloud-based data analysis platform for QC |
+| Canu | Assemebly by trimming and detecting overlaps |
+| prokka | annotating the genome |
+
+
 
 # Build Instructions
 
