@@ -43,7 +43,7 @@ Library:
 
 # Databases
 | Name			| Description
-| :---					| :---						||
+| :---					| :---						|
 | NIH NLM SRA			| The Sequence Read Archive (SRA) stores raw sequence data and alignments	|
 
 # Oxford Nanopore Software
