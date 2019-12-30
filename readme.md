@@ -37,8 +37,14 @@ Library:
 | File Type				| Description					|
 | :---					| :---						|
 | fast5			| HDF container for Oxford Nanopore sequencer raw data |
-| fastq			| HDF container for Oxford Nanopore sequencer raw data |
+| fastq			| base sequences with qiality score |
+| SAM			| Sequence Alignment Map (SAM) is a text-based format originally for storing biological sequences aligned to a reference sequence |
+| BAM			| Binary equivalent of SAM |
 
+# Databases
+| Name			| Description
+| :---					| :---						||
+| NIH NLM SRA			| The Sequence Read Archive (SRA) stores raw sequence data and alignments	|
 
 # Oxford Nanopore Software
 | Software				| Description					|
