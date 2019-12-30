@@ -56,11 +56,16 @@ Library:
 | prokka | annotating the genome |
 | Metrichor | integrated solutions for the whole analysis process |
 
-# Software Alternatives
+# Fast5 Software Alternatives
 | Software				| Language | Description					|
 | :---					| :---	| :---					|
 | poretools			| Python 2 | a toolkit for working with nanopore sequencing data from Oxford Nanopore |
 | BulkVis			| Python 3 | enables the visualisation of raw ‘squiggle’ data from Oxford Nanopore Technologies sequencers |
+
+# Genome Browser Software
+| Software				| Language | Description					|
+| :---					| :---	| :---					|
+| Ensembl			| Cloud | a genome browser for vertebrate genomes that supports research in comparative genomics, evolution, sequence variation and transcriptional regulation. Ensembl annotate genes, computes multiple alignments, predicts regulatory function and collects disease data. Ensembl tools include BLAST, BLAT, BioMart and the Variant Effect Predictor (VEP) for all supported species. |
 
 # Build Instructions
 
