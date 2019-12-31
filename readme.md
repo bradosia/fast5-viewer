@@ -71,6 +71,16 @@ Library:
 | Software				| Language | Description					|
 | :---					| :---	| :---					|
 | BioBlender			| Python 2 | module that can be used with Blender, with the aim of providing a view of biological or molecular data |
+| RasMol | C | |
+| UGENE | C++ | QT5 GUI |
+| UCSF Chimera | Python | |
+| CLC Sequence Viewer 8.0.0 | Closed Source | proprietary |
+| Geneious | Closed Source | proprietary |
+| JalView | java | |
+| ClustalX | C++ | |
+| Alignment Annotator | javascript | |
+| STRAP | JAVA | |
+| PyMOL | python | |
 
 # Build Instructions
 
