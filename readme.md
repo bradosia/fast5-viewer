@@ -40,6 +40,8 @@ Library:
 | fastq			| base sequences with qiality score |
 | SAM			| Sequence Alignment Map (SAM) is a text-based format originally for storing biological sequences aligned to a reference sequence |
 | BAM			| Binary equivalent of SAM |
+| PDB | PDB entries are distributed in the PDB File Format following the specification described in the Contents Guide Version 3.30 (Nov. 21, 2012). The PDB file format is no longer being modified or extended to support new content. |
+| PDBx/mmCIF | Large structures (containing >62 chains and/or 99999 ATOM records) that cannot be fully represented in the PDB File Format are available in the PDB archive as single PDBx/mmCIF files |
 
 # Databases
 | Name			| Description
