@@ -13,8 +13,8 @@ IDE:
 	* Build id: 20180917-1800
 
 Library: 
-* hdf5 1.10.6
-* minimap2-2.17
+* hdf5 1.10.6 (https://www.hdfgroup.org/downloads/hdf5/source-code/)
+* minimap2-2.17 (https://github.com/lh3/minimap2)
 
 # Table of Contents
 
