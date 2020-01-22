@@ -14,6 +14,7 @@ IDE:
 
 Library: 
 * hdf5 1.10.6
+* minimap2-2.17
 
 # Table of Contents
 
